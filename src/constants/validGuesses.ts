@@ -172,6 +172,7 @@ export const VALID_GUESSES = [
   'razor',
   'reads',
   'relic',
+  'remus',
   'reply',
   'rhyme',
   'rings',
